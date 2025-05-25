@@ -1,3 +1,3 @@
 # juhuji
 Ecommerce
-Author - Mohammad Junaid
+Author - Mohammad Junaid Khan
